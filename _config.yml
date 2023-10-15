@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Zhiyu Xu"
-  avatar           : "profile.png"
-  bio              : "Welcome to my homepage! I am currently a student in Weiyang College, Tsinghua University. I am passionate about discovering knowledge in a data-driven manner using mathematics."
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : "Discovering knowledge in a data-driven manner using Mathematics"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "xu-zy20@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

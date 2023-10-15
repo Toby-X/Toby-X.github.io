@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhiyu Xu"
-  avatar           : /images/profile.jpg
+  avatar           : "profile.jpg"
   bio              : "Discovering knowledge in a data-driven manner using Mathematics"
   location         : "Beijing, China"
   employer         :
